@@ -1,0 +1,3 @@
+Exercício desenvolvido em C para praticar vetores e algoritmos de ordenação.
+O programa permite preencher, limpar, visualizar e gerar valores aleatórios em um vetor.
+Também implementa os algoritmos Bubble Sort, Selection Sort e Insertion Sort.
