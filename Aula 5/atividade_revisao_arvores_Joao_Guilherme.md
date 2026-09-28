@@ -1,6 +1,6 @@
 # Revisão de estrutura de árvores (Atividade individual remota para o dia 28/09)
 
-**Nome:** João Guilherme  
+**Nome:** João Guilherme Nunes Koch 
 **Disciplina:** Estrutura de Dados II  
 **Professora:** Profa. Kadidja Valéria  
 **Modalidade:** Individual, remota e assíncrona
