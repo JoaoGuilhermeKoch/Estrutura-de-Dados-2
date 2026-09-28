@@ -1,0 +1,1 @@
+Seguem as atividades, Tree delivery: apresentação designada ao jogo da árvore BST escolhido por nós do grupo 11 e no  link da apresentação está o link do jogo completo devido ao peso, e a atividade referente ao dia de hoje está postada!
